@@ -19,7 +19,11 @@
 - OpenAI Whisper for transcription
 - OpenAI GPT-4o for text summarization
 - Chrome Extension for user interface
+## 📜 Example Screenshot
 
+![App Screenshot](backend/ai.png)
+
+---
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the repository
