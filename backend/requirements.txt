@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+yt-dlp
+pytube
+openai
+whisper
+torch
+python-dotenv
